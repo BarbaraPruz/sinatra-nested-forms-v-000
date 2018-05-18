@@ -1,5 +1,4 @@
 require './app'
-require './models/pirate'
-require './models/ship'
+require './models'
 
 run FormsLab::App
